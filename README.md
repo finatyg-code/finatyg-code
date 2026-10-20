@@ -8,6 +8,13 @@ I'm an aspiring Security Operations Center (SOC) Analyst, developing hands-on sk
 
 I'm passionate about understanding how cyberattacks happen, identifying suspicious network activity, and learning how security teams detect and respond to threats.
 
+## 🔍 My Cybersecurity Projects
+
+### 1. Network Traffic Analysis Using Wireshark
+
+Analyzed DNS queries and responses using Wireshark to identify domain names, IP addresses, and network communication.
+
+[View My Wireshark Project](https://github.com/finatyg-code/wireshark-network-traffic-analysis)
 ## 🔐 Technical Skills
 - Network Traffic Analysis: Wireshark
 - Networking: TCP/IP, DNS, HTTP/HTTPS

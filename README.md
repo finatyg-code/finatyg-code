@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there! 👋 I'm Finatyg
 
-<!--
-**finatyg-code/finatyg-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛡️ Aspiring SOC Analyst | Cybersecurity Enthusiast
 
-Here are some ideas to get you started:
+Welcome to my cybersecurity portfolio!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an aspiring Security Operations Center (SOC) Analyst, developing hands-on skills in network security monitoring, threat detection, log analysis, and incident investigation.
+
+I'm passionate about understanding how cyberattacks happen, identifying suspicious network activity, and learning how security teams detect and respond to threats.
+
+## 🔐 Technical Skills
+- Network Traffic Analysis: Wireshark
+- Networking: TCP/IP, DNS, HTTP/HTTPS
+- Virtualization: Oracle VirtualBox
+- Security Fundamentals: Packet Inspection and Network Monitoring
+
+## 📚 Currently Learning
+- Kali Linux and Nmap
+- SIEM and Security Log Analysis
+- Threat Detection and Incident Response
+- SOC Analyst Investigation Workflows
+
+## 🔍 Cybersecurity Projects
+Hands-on cybersecurity projects and investigation reports will be published here as I complete them.
+
+## 🎯 Career Goal
+To become a professional SOC Analyst, helping organizations monitor security events, investigate potential threats, and respond effectively to cybersecurity incidents.
+
+## 🤝 Connect With Me
+- GitHub: https://github.com/finatyg-code
+- LinkedIn: [Add your LinkedIn profile URL]

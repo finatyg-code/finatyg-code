@@ -15,6 +15,12 @@ I'm passionate about understanding how cyberattacks happen, identifying suspicio
 Analyzed DNS queries and responses using Wireshark to identify domain names, IP addresses, and network communication.
 
 [View My Wireshark Project](https://github.com/finatyg-code/wireshark-network-traffic-analysis)
+
+### 2. Nmap Network Scanning and Service Detection
+
+Performed TCP port scanning and service detection using Nmap in a controlled Kali Linux lab environment. Identified open and closed ports, analyzed running services, and documented security findings.
+
+[View My Nmap Project](https://github.com/finatyg-code/nmap-network-scanning-project)
 ## 🔐 Technical Skills
 - Network Traffic Analysis: Wireshark
 - Networking: TCP/IP, DNS, HTTP/HTTPS

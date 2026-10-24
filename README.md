@@ -28,6 +28,11 @@ Investigated suspicious HTTP network traffic using Wireshark and PCAP analysis. 
 
 [View My XLMRat Malware Investigation](https://github.com/finatyg-code/xlmrat-malware-traffic-investigation)
 
+### 4. SOC Security Log Analysis
+
+Investigated simulated SSH authentication logs using Kali Linux to identify suspicious login attempts and possible brute-force activity. Analyzed failed login patterns, identified a suspicious source IP, and documented findings and recommended security responses.
+
+[View My SOC Security Log Analysis Project](https://github.com/finatyg-code/soc-security-log-analysis)
 ## 🔐 Technical Skills
 - Network Traffic Analysis: Wireshark
 - Networking: TCP/IP, DNS, HTTP/HTTPS

@@ -21,6 +21,13 @@ Analyzed DNS queries and responses using Wireshark to identify domain names, IP 
 Performed TCP port scanning and service detection using Nmap in a controlled Kali Linux lab environment. Identified open and closed ports, analyzed running services, and documented security findings.
 
 [View My Nmap Project](https://github.com/finatyg-code/nmap-network-scanning-project)
+
+### 3. XLMRat Malware Traffic Investigation
+
+Investigated suspicious HTTP network traffic using Wireshark and PCAP analysis. Identified encoded PowerShell script delivery, examined HTTP objects, and documented potential malware activity and recommended incident response actions.
+
+[View My XLMRat Malware Investigation](https://github.com/finatyg-code/xlmrat-malware-traffic-investigation)
+
 ## 🔐 Technical Skills
 - Network Traffic Analysis: Wireshark
 - Networking: TCP/IP, DNS, HTTP/HTTPS
